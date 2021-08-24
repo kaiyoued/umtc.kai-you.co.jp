@@ -339,7 +339,7 @@ $mont:'Montserrat', sans-serif;
   position: relative;
   z-index: 1;
   height: 920px;
-  background-image: url('/img/umtcKV.jpg');
+  background-image: url('~assets/img/umtcKV.jpg');
   background-position: center;
   background-size: cover;
   display: flex;
@@ -349,7 +349,7 @@ $mont:'Montserrat', sans-serif;
   }
 
   @include sp() {
-    background-image: url('/img/umtcKV_sp.jpg');
+    background-image: url('~assets/img/umtcKV_sp.jpg');
   }
 
   &__back {
@@ -607,10 +607,10 @@ $mont:'Montserrat', sans-serif;
   width: 100%;
   margin: 126px auto 0 auto;
   padding: 132px 0px 208px 0px;
-  background-image: url('/img/about-back.jpg');
+  background-image: url('~assets/img/about-back.jpg');
 
   @include sp(780px) {
-    background-image: url('/img/about-back_sp.png');
+    background-image: url('~assets/img/about-back_sp.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
