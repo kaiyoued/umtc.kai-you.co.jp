@@ -1,11 +1,11 @@
 <template>
   <header :class="['header', {'in': headerBg}]" id="header">
     <a :class="['header__logo', {'in': headerBg}]" href="http://umtc.kai-you.co.jp">
-      <img src="img/logo_ver2.svg" alt="KAI-YOU Medium Tech.">
+      <img src="~/assets/img/logo_ver2.svg" alt="KAI-YOU Medium Tech.">
     </a>
 
     <a :class="['header__logo_ex', {'in': headerBg}]" href="http://umtc.kai-you.co.jp">
-      <img src="img/logo_ex.svg" alt="KAI-YOU Medium Tech.">
+      <img src="~/assets/img/logo_ex.svg" alt="KAI-YOU Medium Tech.">
     </a>
 
     <div :class="['header__menu', {'in': headerBg}]">
@@ -25,34 +25,34 @@
         </div>
       </div>
       <div :class="['header__menu-splist', {'in': isMenuOpen}]" id="header-menu">
-        <img class="header__logo-sp" src="img/logo_ex.svg" alt="">
+        <img class="header__logo-sp" src="~/assets/img/logo_ex.svg" alt="">
         <ul>
           <li>
             <a id="header-list1" href="#product" v-on:click="toggleMenu; scrollTo('#product', 'body');">
               PRODUCT
               <p>サービスプロダクト</p>
-              <img src="img/arrow-black.svg" alt="">
+              <img src="~/assets/img/arrow-black.svg" alt="">
             </a>
           </li>
           <li>
             <a id="header-list2" href="#about" v-on:click="toggleMenu; scrollTo('#about', 'body');">
               ABOUT
               <p>Medium Tech.とは</p>
-              <img src="img/arrow-black.svg" alt="">
+              <img src="~/assets/img/arrow-black.svg" alt="">
             </a>
           </li>
           <li>
             <a id="header-list3" href="#recruit" v-on:click="toggleMenu; scrollTo('#recruit', 'body');">
               RECRUIT
               <p>採用情報</p>
-              <img src="img/arrow-black.svg" alt="">
+              <img src="~/assets/img/arrow-black.svg" alt="">
             </a>
           </li>
           <li>
             <a id="header-list4" href="#contact" v-on:click="toggleMenu; scrollTo('#contact', 'body');">
               CONTACT
               <p>お問い合わせ</p>
-              <img src="img/arrow-black.svg" alt="">
+              <img src="~/assets/img/arrow-black.svg" alt="">
             </a>
           </li>
         </ul>

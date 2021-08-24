@@ -2,14 +2,14 @@
   <div>
     <div class="kv" id="kv">
       <div class="kv__txt">
-        <img class="kv__logo" src="img/logo_fv.svg" alt="">
+        <img class="kv__logo" src="~/assets/img/logo_fv.svg" alt="">
       </div>
       <a class="kv__scroll" href="#product">
-        <img src="img/scroll_down.svg" alt="">
+        <img src="~/assets/img/scroll_down.svg" alt="">
       </a>
     </div>
     <div class="product" id="product">
-      <img class="product__back" src="img/medium_tech.svg" alt="">
+      <img class="product__back" src="~/assets/img/medium_tech.svg" alt="">
       <div class="product__headline">
         <h2>PRODUCT</h2>
         <p>サービスプロダクト</p>
@@ -22,7 +22,7 @@
           <div class="product__inner product__inner--sp">
             <a href="http://kai-you.net/" target="_blank">
               <div class="product__img product__img--02">
-                <img src="img/product02.png" alt="">
+                <img src="~/assets/img/product02.png" alt="">
               </div>
               <div class="product__inner--txt">
                 <p class="product__inner--title">KAI-YOU.net</p>
@@ -30,7 +30,7 @@
                 <div class="product__inner--bottom">
                   <p>RELEASE｜2013.03.29</p>
                   <div class="product__inner--bottom--link">
-                    <img src="img/arrow.svg" alt="">
+                    <img src="~/assets/img/arrow.svg" alt="">
                   </div>
                 </div>
               </div>
@@ -39,7 +39,7 @@
           <div class="product__inner">
             <a href="http://premium.kai-you.net/" target="_blank">
               <div class="product__img">
-                <img src="img/product01.png" alt="">
+                <img src="~/assets/img/product01.png" alt="">
               </div>
               <div class="product__inner--txt">
                 <p class="product__inner--title">KAI-YOU Premium</p>
@@ -47,7 +47,7 @@
                 <div class="product__inner--bottom">
                   <p>RELEASE｜2013.03.15</p>
                   <div class="product__inner--bottom--link">
-                    <img src="img/arrow.svg" alt="">
+                    <img src="~/assets/img/arrow.svg" alt="">
                   </div>
                 </div>
               </div>
@@ -58,7 +58,7 @@
           <div class="product__inner product__inner--pc">
             <a href="http://kai-you.net/" target="_blank">
               <div class="product__img product__img--02">
-                <img src="img/product02.png" alt="">
+                <img src="~/assets/img/product02.png" alt="">
               </div>
               <div class="product__inner--txt">
                 <p class="product__inner--title">KAI-YOU.net</p>
@@ -66,7 +66,7 @@
                 <div class="product__inner--bottom">
                   <p>RELEASE｜2013.03.29</p>
                   <div class="product__inner--bottom--link">
-                    <img src="img/arrow.svg" alt="">
+                    <img src="~/assets/img/arrow.svg" alt="">
                   </div>
                 </div>
               </div>
@@ -75,7 +75,7 @@
           <div class="product__inner product__inner--last">
             <a href="https://www.youtube.com/channel/UC19E86bVr9j3y7Psfcu5SKQ" target="_blank">
               <div class="product__img product__img--03">
-                <img src="img/product03.png" alt="">
+                <img src="~/assets/img/product03.png" alt="">
               </div>
               <div class="product__inner--txt">
                 <p class="product__inner--title">KAI-YOU Videos</p>
@@ -83,7 +83,7 @@
                 <div class="product__inner--bottom">
                   <p>RELEASE｜2016.11.01</p>
                   <div class="product__inner--bottom--link">
-                    <img src="img/arrow.svg" alt="">
+                    <img src="~/assets/img/arrow.svg" alt="">
                   </div>
                 </div>
               </div>
@@ -115,8 +115,8 @@
     <div class="blog" id="blog">
       <div class="blog__wrapper">
         <div class="blog__img">
-          <img class="blog__img--pc" src="img/blog.png" alt="">
-          <img class="blog__img--sp" src="img/blog.png" alt="">
+          <img class="blog__img--pc" src="~/assets/img/blog.png" alt="">
+          <img class="blog__img--sp" src="~/assets/img/blog.png" alt="">
         </div>
         <div class="blog__right">
           <div class="blog__inner">
@@ -129,7 +129,7 @@
                 ニュース記事や連載記事、企画や他媒体との相互転載など、ポップなコンテンツを取り扱います。
               </p>
             </div>
-            <a class="blog__btn" href="https://kai-you-tech.hatenablog.com/" target="_blank">開発者ブログをみる<img src="img/arrow.svg" alt=""></a>
+            <a class="blog__btn" href="https://kai-you-tech.hatenablog.com/" target="_blank">開発者ブログをみる<img src="~/assets/img/arrow.svg" alt=""></a>
           </div>
         </div>
       </div>
@@ -138,7 +138,7 @@
 
     <div class="recruit" id="recruit">
       <div class="recruit__wrapper">
-        <img class="recruit__desk" src="img/desk.png" alt="">
+        <img class="recruit__desk" src="~/assets/img/desk.png" alt="">
         <div class="recruit__headline">
           <h2>RECRUIT</h2>
           <p>採用情報</p>
@@ -146,7 +146,7 @@
         <p>
           編集者、ライター、エンジニア、デザイナー様々な職能を持つメンバーで構成されるKAI-YOU Medium Tech.では新たな仲間を募集しています。他の職種に敬意を払い、連携しながらサービス運営に取り組むことのできる方と働きたいと考えています。
         </p>
-        <a class="recruit__btn" href="http://kai-you.co.jp/recruit/" target="_blank">募集要項を見る<img class="recruit__btn--arrow" src="img/arrow-black.svg" alt=""><img class="recruit__btn--arrow-white" src="img/arrow.svg" alt=""></a>
+        <a class="recruit__btn" href="http://kai-you.co.jp/recruit/" target="_blank">募集要項を見る<img class="recruit__btn--arrow" src="img/arrow-black.svg" alt=""><img class="recruit__btn--arrow-white" src="~/assets/img/arrow.svg" alt=""></a>
       </div>
     </div>
 
@@ -197,7 +197,7 @@
           <button type="submit" class="">
             <div class="contact__btn">
               <p>送信する
-                <img src="img/arrow.svg" alt="">
+                <img src="~/assets/img/arrow.svg" alt="">
               </p>
             </div>
           </button>
@@ -206,7 +206,7 @@
     </div>
 
     <div class="back-top"  :class="{'in': buttonVisible}">
-      <a class="footer__back" href="#kv" v-on:click="scrollTop"><img src="img/arrow_back.svg" alt=""></a>
+      <a class="footer__back" href="#kv" v-on:click="scrollTop"><img src="~/assets/img/arrow_back.svg" alt=""></a>
     </div>
   </div>
 </template>
