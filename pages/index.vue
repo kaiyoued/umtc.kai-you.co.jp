@@ -4,6 +4,7 @@
       <div class="kv__txt">
         <img class="kv__logo" src="~/assets/img/logo_fv.svg" alt="">
       </div>
+
       <a class="kv__scroll" href="#product">
         <img src="~/assets/img/scroll_down.svg" alt="">
       </a>
