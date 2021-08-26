@@ -56,6 +56,5 @@ export default {
   target: 'static',
 
   router: {
-    base: '/umtc.kai-you.co.jp/'
   },
 }
