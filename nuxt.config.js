@@ -17,7 +17,7 @@ export default {
       { hid: 'og:url', property: 'og:url', content: 'https://umtc.kai-you.co.jp/' },
       { hid: 'og:title', property: 'og:title', content: 'KAI-YOU Medium Tech.' },
       { hid: 'og:description', property: 'og:description', content: 'わたしたちは、KAI-YOUの運営するメディアを推進するWebサービス開発・コンテンツ制作チームです。10年という歳月にわたって多角的にメディアを運営してきたエンジニアリングと編集力で、超情報化社会の海を泳ぐ推進力を備えたMedium[媒体]を編纂します。' },
-      { hid: 'og:image', property: 'og:image', content: 'https://umtc.kai-you.co.jp/umtc-kv.jpg?20211015' },
+      { hid: 'og:image', property: 'og:image', content: 'https://umtc.kai-you.co.jp/umtc-kv.jpg?202110152' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:url', content: 'https://umtc.kai-you.co.jp' },
       { name: 'twitter:title', content: 'KAI-YOU Medium Tech.' },
