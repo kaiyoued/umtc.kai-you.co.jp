@@ -18,7 +18,7 @@
       <div class="product__wrapper">
         <div class="product__container">
           <p class="product__txt">
-            KAI-YOUの主幹事業であるメディアは、3つの柱で運営されています。2013年に設立した、すべてを繋ぐポップポータルメディア「<b>KAI-YOU.net</b>」。2019年に発足した“日本初”となる月額制サブスクリプション型のポップカルチャーメディア「<b>KAI-YOU Premium</b>」。そして、2016年にリニューアルを経て本格始動したYouTubeチャンネル「<b>KAI-YOU Videos</b>」。
+            KAI-YOUの主幹事業であるメディアは、3つの柱で運営されています。2013年に設立した、すべてを繋ぐポップポータルメディア「<b>KAI-YOU</b>」。2019年に発足した“日本初”となる月額制サブスクリプション型のポップカルチャーメディア「<b>KAI-YOU Premium</b>」。そして、2016年にリニューアルを経て本格始動したYouTubeチャンネル「<b>KAI-YOU Videos</b>」。
           </p>
           <div class="product__inner product__inner--sp">
             <a href="http://kai-you.net/" target="_blank">
@@ -26,7 +26,7 @@
                 <img src="~/assets/img/product02.png" alt="">
               </div>
               <div class="product__inner--txt">
-                <p class="product__inner--title">KAI-YOU.net</p>
+                <p class="product__inner--title">KAI-YOU</p>
                 <p class="product__inner--ex">ニュース記事や連載記事、企画、他媒体との相互転載など、ポップなコンテンツ、今後ポップとなるコンテンツを主に取り扱います。</p>
                 <div class="product__inner--bottom">
                   <p>RELEASE｜2013.03.29</p>
@@ -62,7 +62,7 @@
                 <img src="~/assets/img/product02.png" alt="">
               </div>
               <div class="product__inner--txt">
-                <p class="product__inner--title">KAI-YOU.net</p>
+                <p class="product__inner--title">KAI-YOU</p>
                 <p class="product__inner--ex">アニメや漫画、ヒップホップ、映画、文芸など、あらゆるジャンルのポップをいち早く探求し、日夜、読者の元に届けるためのコンテンツを配信しています。</p>
                 <div class="product__inner--bottom">
                   <p>RELEASE｜2013.03.29</p>
@@ -155,7 +155,7 @@
       <div class="contact__headline">
         <h2>CONTACT</h2>
         <p class="contact__headline--sub">お問い合わせ</p>
-        <p class="contact__headline--message">KAI-YOU Medium Tech.へのお問い合わせは下記のフォームに必要事項にご記入の上、ご連絡いただけますと幸いです。また、KAI-YOU.netへのプレスリリースの送付は<a href="https://kai-you.net/contact" target="_blank" class="contact__headline--message--span">KAI-YOU.netコンタクトフォーム</a>よりお願い致します。</p>
+        <p class="contact__headline--message">KAI-YOU Medium Tech.へのお問い合わせは下記のフォームに必要事項にご記入の上、ご連絡いただけますと幸いです。また、KAI-YOUへのプレスリリースの送付は<a href="https://kai-you.net/contact" target="_blank" class="contact__headline--message--span">KAI-YOUコンタクトフォーム</a>よりお願い致します。</p>
       </div>
       <div class="contact__wrapper">
         <p class="contact__wrapper--alert">※は必須項目です</p>

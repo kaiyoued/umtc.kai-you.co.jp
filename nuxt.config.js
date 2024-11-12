@@ -10,7 +10,7 @@ export default {
       { charset: 'utf-8' },
       { hid: 'description', name: 'description', content: 'わたしたちは、KAI-YOUの運営するメディアを推進するWebサービス開発・コンテンツ制作チームです。10年という歳月にわたって多角的にメディアを運営してきたエンジニアリングと編集力で、超情報化社会の海を泳ぐ推進力を備えたMedium[媒体]を編纂します。' },
       { name: 'format-detection', content: 'telephone=no' },
-      { name: 'keywords', content: 'KAI-YOU Medium Tech.,カイユウメディウムテック,ウムテク,KAI-YOU.net,KAI-YOU Premium,KAI-YOU Videos,界遊' },
+      { name: 'keywords', content: 'KAI-YOU Medium Tech.,カイユウメディウムテック,ウムテク,KAI-YOU,KAI-YOU Premium,KAI-YOU Videos,界遊' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'og:site_name', property: 'og:site_name', content: 'KAI-YOU Medium Tech.' },
       { hid: 'og:type', property: 'og:type', content: 'company' },
